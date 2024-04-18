@@ -13,4 +13,7 @@ Deployed on Vercel [here](https://de-lottery.vercel.app/)
 
 ![alt text](/platform.png)
 ![alt text](/1.png)
+![alt text](/3.png)
 ![alt text](/2.png)
+
+
