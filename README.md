@@ -11,6 +11,6 @@ Based on my figma design [here](https://www.figma.com/file/TOtdehcgZYZWJW2zjZJBl
 Deployed on Vercel [here](https://de-lottery.vercel.app/)
 
 
-![alt text](platform.png)
-![alt text](1.png)
-![alt text](2.png)
+![alt text](/platform.png)
+![alt text](/1.png)
+![alt text](/2.png)

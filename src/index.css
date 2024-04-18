@@ -1,0 +1,177 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Expletus+Sans&display=swap');
+
+
+html, body {
+    font-family: 'Expletus Sans', cursive;
+
+
+}
+
+#app{
+    @apply bg-slate-900
+}
+
+.landing-screen{
+    height: 100vh;
+}
+
+.betting-screen{
+    background-color: #2D1835;
+}
+
+.normal-font {
+    font-family: "Roboto", sans-serif;
+}
+
+.text-gold{
+    background-image: linear-gradient(
+        to right,
+        #462523 0,
+        #cb9b51 22%, 
+        #f6e27a 45%,
+        #f6f2c0 50%,
+        #f6e27a 55%,
+        #cb9b51 78%,
+        #462523 100%
+        );
+       color:transparent;
+       -webkit-background-clip:text;
+}
+  
+
+.custom-shape-divider-top-1676728505 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+
+
+/* 
+.custom-shape-divider-top-1676728505 > svg {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 210px;
+} */
+
+.custom-shape-divider-top-1676728505 .shape-fill {
+    fill: #3C124B;
+}
+
+
+
+.custom-shape-divider-bottom-1676728737 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1676728737 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 399px;
+}
+
+.custom-shape-divider-bottom-1676728737 .shape-fill {
+    fill: #3C124B;
+}
+
+.custom-shape-divider-top-222 {
+    
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+  
+}
+
+.custom-shape-divider-top-222 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 410px;
+}
+
+.custom-shape-divider-top-222 .shape-fill {
+    fill: #3C124B;
+}
+
+
+
+
+/* curve */
+.custom-shape-divider-top-1676739897 {
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1676739897 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 113px;
+}
+
+.custom-shape-divider-top-1676739897 .shape-fill {
+    fill: #2d1835;
+}
+
+/* curve 2 */
+
+.custom-shape-divider-top-333 {
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+
+}
+
+.custom-shape-divider-top-333 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 113px;
+}
+
+.custom-shape-divider-top-333 .shape-fill {
+    fill: #2d1835;
+}
+
+/* curve 3 */
+
+.custom-shape-divider-top-444 {
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+
+}
+
+.custom-shape-divider-top-444 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 113px;
+}
+
+.custom-shape-divider-top-444 .shape-fill {
+    fill: #2d1835;
+}
