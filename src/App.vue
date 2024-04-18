@@ -237,7 +237,7 @@ import NavBar  from './components/NavBar.vue'
     </svg>
 </div>
 
-<div class="text-yellow-400 text-[38px] text-center"> How To Play</div>
+<div id="how-to-play" class="text-yellow-400 text-[38px] text-center"> How To Play</div>
 
 <div class="text-xl text-gray-300 text-center w-[60%] mt-8 m-auto">If the digits on your tickets match the winning 
   numbers in the correct order, you win a portion of the prize pool.

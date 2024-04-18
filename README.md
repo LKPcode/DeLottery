@@ -8,12 +8,9 @@ No buisness logic is implemented, just the User Interface.
 
 Based on my figma design [here](https://www.figma.com/file/TOtdehcgZYZWJW2zjZJBlU/Lottery?type=design&node-id=0-1&mode=design)
 
-Deployed on Vercel [here](https://de-lottery.vercel.app/)
-
+Deployed on Vercel [here](https://de-lottery-pi.vercel.app/)
 
 ![alt text](/platform.png)
 ![alt text](/1.png)
 ![alt text](/3.png)
 ![alt text](/2.png)
-
-
